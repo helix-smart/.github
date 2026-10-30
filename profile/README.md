@@ -1,4 +1,4 @@
-<img src="interreg-greece-italy.png" alt="Interreg Greece – Italy, co-funded by the European Union" height="90">
+<img src="interreg-greece-italy.png" alt="Interreg Greece – Italy, co-funded by the European Union" height="150">
 
 # HELIX-SMART
 
@@ -20,13 +20,24 @@ More services will be added side by side under [helix-smart.di.ionio.gr](https:/
 
 ## Partnership
 
+<!-- Logos at most 48 px high: the EU flag in the programme logo above (150 px) is ~50 px,
+     and must stay the largest logo (Interreg visibility rules). -->
+<p>
+  <a href="https://ionio.gr"><img src="partners/ionian-university.png" alt="Ionian University (Lead Beneficiary)" title="Ionian University (Lead Beneficiary)" height="48"></a>&nbsp;&nbsp;
+  <a href="https://www.e-a.gr"><img src="partners/chamber-of-achaia.png" alt="Chamber of Achaia" title="Chamber of Achaia" height="48"></a>&nbsp;&nbsp;
+  <a href="https://www.athenarc.gr"><img src="partners/isi-athena-rc.png" alt="ATHENA Research and Innovation Centre – Industrial Systems Institute" title="ATHENA Research and Innovation Centre – Industrial Systems Institute" height="48"></a>&nbsp;&nbsp;
+  <a href="https://www.unifg.it"><img src="partners/universita-di-foggia.png" alt="University of Foggia" title="University of Foggia" height="48"></a>&nbsp;&nbsp;
+  <a href="https://www.cna.it/chi-siamo/trova-sede/puglia/brindisi/"><img src="partners/cna-brindisi.png" alt="CNA Brindisi" title="CNA Brindisi" height="48"></a>&nbsp;&nbsp;
+  <a href="https://www.galbatir.it"><img src="partners/gal-batir.png" alt="GAL BaTiR" title="GAL BaTiR" height="48"></a>&nbsp;&nbsp;
+</p>
+
 | Partner | Role | Location |
 |---|---|---|
 | [Ionian University](https://ionio.gr) | Lead Beneficiary | Corfu, Greece |
 | [Chamber of Achaia](https://www.e-a.gr) | Partner | Patras, Greece |
 | [ATHENA Research and Innovation Centre – Industrial Systems Institute](https://www.athenarc.gr) | Partner | Patras, Greece |
 | [University of Foggia](https://www.unifg.it) | Partner | Foggia, Italy |
-| CNA – National Confederation of Crafts and SMEs, Provincial Association of Brindisi | Partner | Brindisi, Italy |
+| [CNA – National Confederation of Crafts and SMEs, Provincial Association of Brindisi](https://www.cna.it/chi-siamo/trova-sede/puglia/brindisi/) | Partner | Brindisi, Italy |
 | [GAL BaTiR – Local Action Group Basso Tirreno Reggino](https://www.galbatir.it) | Partner | Villa San Giovanni, Italy |
 
 ## Development
