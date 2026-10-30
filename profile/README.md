@@ -45,10 +45,12 @@ More services will be added side by side under [helix-smart.di.ionio.gr](https:/
 The software in this organisation is designed and developed by the
 [Department of Informatics](https://di.ionio.gr), [Ionian University](https://ionio.gr).
 
+<!--
 **Contributors**
 
-<!-- One line per person: name, role, affiliation. Add a GitHub link only with the person's consent. -->
+One line per person: name, role, affiliation. Add a GitHub link only with the person's consent. 
 - *Name Surname*: role (e.g. project coordinator, scientific lead, developer), Department of Informatics, Ionian University
+-->
 
 ## Funding and disclaimer
 
